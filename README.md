@@ -60,7 +60,24 @@
   
 - Industry Talk 2 [Assignment 3 (Report)](https://drive.google.com/file/d/1BPG_SIO5OsKg2D9B1l2Hy1v2F2rEQxS1/view?usp=sharing)
   
-- Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
+- Industrial Visit [Assignment 4 (Newsletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
 
+- PC Assembly [Lab](https://docs.google.com/document/d/19k3j10uFAHJcWCADiv4fam_01GIGHUuD/edit?usp=sharing&ouid=105663868164074375005&rtpof=true&sd=true)
+
+- Design Thinking [Low Fidelity Prototype](https://drive.google.com/file/d/1x_2usWzp-OlYjmwgAUChSbdOWJ8i6Xae/view?usp=sharing)
+
+
+<p align="left"></p>
+
+<h3 align="center">Reflection</h3>
+
+<p>I have gained a lot of knowledge from the industrial talk for UTMDigital as well as the System Development at Credence. It has increase my knowledge
+in the fields of Software Engineering especially behind the scene of how a software is planned, developed and deployed. The industrial visit at Indah Water was very
+eye opening as I understood the usage of technology in maintaining a recycle water facility into drinkable water. PC Assembly assignment allows me to use real world skills
+to operate on my own computer to clean and repair it. Finally the design thinking assignments have gave me experience to work in a team and understand empathy which is
+surprisingly important in implementing into a design of a solution.</p><p align="left"></p> 
+
+<p>For further improvement, I suggest more industrial visit to technological places like Microsoft or Google office located in Malaysia. This would be very
+informative for the software students.</p><p align="left"></p> 
 
 <p align="left"></p>
