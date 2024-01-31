@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 
-<p> I am from Kuala Lumpur, Malaysia and currently a software engineering student at MJIIT while also enhancing my skills in graphic design and video editing as that is my hobby. </p>
+<p> I am from Selangor, Malaysia and currently studying software engineer degree at MJIIT. I am also an IT Graduate from PTSS </p>
 
 <p align="left">
 </p>
@@ -22,14 +22,16 @@
 <p align="left">
 </p>
 
-<p> Currently Persuing a Bachelor of Computer Science (Software Engineering) </p> <p align="left"> </p> <p> Secondary School: SMK SS17, Subang Jaya </p> <p align="left"> </p> <p> Primary School: SKPJ SS19, Subang Jaya </p>
+<p> Currently Persuing a Bachelor Degree of Computer Science (Software Engineering) </p> <p align="left"> </p> 
+<p> Diploma Graduate in Information Technology: Politeknik Tuanku Syed Sirajuddin </p> <p align="left">
+<p> Secondary School: SMK Puchong Perdana </p> <p align="left"> </p>
 
-<h3 align="center">Positions</h3>
+<h3 align="center">Club Position</h3>
 
 <p align="left">
 </p>
 
-<p>Batch Representative (2023 - Current) </p> <p align="left"></p> <p>Vice President 1, Sakura Seisaku Club (2023 - Current) </p>
+<p>President of Orator's Club (2021 - 2022) </p> <p align="left"></p> 
 
 <p align="left">
 </p>
@@ -45,10 +47,4 @@
 - Industrial Visit [Assignment 4 (Nesletter)](https://drive.google.com/file/d/1GAiTVNX7ule02u_iC3g1rpiq06ftZive/view?usp=sharing)
 
 
-
 <p align="left"></p>
-
-
-
-
-
