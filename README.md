@@ -52,6 +52,28 @@
 <p align="left">
 </p>
 
+
+<h3 align="center">Certification</h3>
+
+<p align="left">
+</p>
+
+<p>Malaysian English Proficiency Test (MUET) Band 5</p> <p align="left"></p> 
+
+<p align="left">
+</p>
+
+<h3 align="center">Honors & Awards</h3>
+
+<p align="left">
+</p>
+
+<p>Politeknik Tuanku Syed Sirajuddin Chancellor's Award (November 2023)</p> <p align="left"></p> 
+<p>FINALIST | ESU - Taylor's College Public Speaking Competition (April 2021)</p> <p align="left"></p> 
+
+<p align="left">
+</p>
+
 <h3 align="center">TIS Assignments</h3>
 
 - Industry Talk [Assignment 1 (Poster)](https://drive.google.com/file/d/1iqjSzW-q8jedGMrWkwXFFmGu5O5Y75I5/view?usp=sharing)
@@ -64,7 +86,9 @@
 
 - PC Assembly [Lab](https://docs.google.com/document/d/19k3j10uFAHJcWCADiv4fam_01GIGHUuD/edit?usp=sharing&ouid=105663868164074375005&rtpof=true&sd=true)
 
-- Design Thinking [Low Fidelity Prototype](https://drive.google.com/file/d/1x_2usWzp-OlYjmwgAUChSbdOWJ8i6Xae/view?usp=sharing)
+- Design Thinking [Low Fidelity Prototype](https://drive.google.com/file/d/1x_2usWzp-OlYjmwgAUChSbdOWJ8i6Xae/view?usp=sharing),
+[Report](https://drive.google.com/file/d/1JGf0-5uXvDVFuoiU4y0PtukMPA0G6GHV/view?usp=sharing), 
+[Video](https://drive.google.com/file/d/1LTcT1JoFKyQowITZMSiFRrtG32prM2I2/view?usp=sharing)
 
 
 <p align="left"></p>
