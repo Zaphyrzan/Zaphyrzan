@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Zaphyrzan/Zaphyrzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Wan</h1>
 <h3 align="center">Software Engineering Student at UTM-MJIIT (Universiti Teknologi Malaysia - Malaysia Japan Insitute of Technology) & Diploma Information Technology Graduate from Politeknik Tuanku Syed Sirajuddin</h3>
 
@@ -52,5 +47,8 @@
 
 
 <p align="left"></p>
+
+
+
 
 
