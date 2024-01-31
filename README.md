@@ -5,7 +5,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
 <h3 align="center">Summary</h3>
 
@@ -22,16 +24,30 @@
 <p align="left">
 </p>
 
-<p> Currently Persuing a Bachelor Degree of Computer Science (Software Engineering) </p> <p align="left"> </p> 
-<p> Diploma Graduate in Information Technology: Politeknik Tuanku Syed Sirajuddin </p> <p align="left">
-<p> Secondary School: SMK Puchong Perdana </p> <p align="left"> </p>
+<p> Bachelor Degree in Softare Engineer: Universiti Teknologi Malaysia (2023 - Present) </p> <p align="left"> </p> 
+<p> Diploma Graduate in Information Technology: Politeknik Tuanku Syed Sirajuddin (2019 - 2022) </p> <p align="left">
+<p> Secondary School: SMK Puchong Perdana (2014 - 2018) </p> <p align="left"> </p>
 
-<h3 align="center">Club Position</h3>
+<h3 align="center">Position</h3>
 
 <p align="left">
 </p>
 
+<p>EXCO Communication of Seisaku (2023 - Present) </p> <p align="left"></p> 
 <p>President of Orator's Club (2021 - 2022) </p> <p align="left"></p> 
+
+<p align="left">
+</p>
+
+<h3 align="center">Skills</h3>
+
+<p align="left">
+</p>
+
+<p>C++ : Intermediate </p> <p align="left"></p> 
+<p>Java : Intermediate </p> <p align="left"></p> 
+<p>Python: Intermediate </p> <p align="left"></p> 
+<p>HTML : Intermediate </p> <p align="left"></p> 
 
 <p align="left">
 </p>
